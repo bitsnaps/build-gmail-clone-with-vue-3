@@ -8,18 +8,17 @@
     "lint": "vue-cli-service lint"
   },
   "dependencies": {
-    "axios": "^0.19.2",
-    "core-js": "^3.6.4",
-    "date-fns": "^2.11.0",
-    "marked": "^0.8.1",
-    "vue": "^3.0.0-beta.10"
+    "axios": "^0.21.1",
+    "core-js": "^3.23.5",
+    "date-fns": "^2.29.1",
+    "marked": "^4.0.18",
+    "vue": "^3.2.37"
   },
   "devDependencies": {
-    "@vue/cli-plugin-babel": "^4.3.0",
-    "@vue/cli-service": "^4.3.0",
-    "@vue/compiler-sfc": "^3.0.0-beta.10",
+    "@vue/cli-plugin-babel": "~5.0.8",
+    "@vue/cli-service": "~5.0.8",
+    "@vue/compiler-sfc": "^3.2.37",
     "faker": "^4.1.0",
-    "vue-cli-plugin-vue-next": "^0.1.2",
-    "vue-template-compiler": "^2.6.11"
+    "vue-template-compiler": "^2.7.8"
   }
 }
